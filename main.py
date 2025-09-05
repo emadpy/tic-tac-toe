@@ -61,6 +61,11 @@ def start_game():
             print(f"Player {winner} wins!")
             break
 
+        if all(isinstance(cell, str) for cell in cells):
+            display_board()
+            print("It's a tie!")
+            break
+
         current_player = "O" if current_player == "X" else "X"
 
 
