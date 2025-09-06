@@ -1,3 +1,3 @@
-# Tic Tac Toe (Console Version) 🎮
+# Tic Tac Toe 🎮
 
-A simple **console-based Tic Tac Toe** game for two players.
+A simple **Tic Tac Toe** game for two players.
